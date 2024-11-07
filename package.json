@@ -1,0 +1,19 @@
+{
+  "name": "apivisual",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Hector Ricarte",
+  "license": "ISC",
+  "description": "Api Con Node Js",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
